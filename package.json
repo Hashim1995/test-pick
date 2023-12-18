@@ -1,0 +1,38 @@
+{
+  "name": "vizox",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "sass": "sass --watch public/scss/style.scss:public/css/style.css"
+  },
+  "dependencies": {
+    "appear": "^1.0.1",
+    "eslint": "8.32.0",
+    "eslint-config-next": "13.1.5",
+    "fancybox": "^3.0.1",
+    "fs": "^0.0.1-security",
+    "i18next": "^23.7.11",
+    "i18next-browser-languagedetector": "^7.2.0",
+    "i18next-http-backend": "^2.4.2",
+    "next": "13.1.5",
+    "next-i18next": "^15.1.1",
+    "react": "18.2.0",
+    "react-animated-slider": "^1.1.4",
+    "react-countup": "^6.4.1",
+    "react-dom": "18.2.0",
+    "react-fancybox": "^0.2.5",
+    "react-i18next": "^13.5.0",
+    "react-modal-video": "^2.0.0",
+    "react-range-slider-input": "^3.0.7",
+    "react-visibility-sensor": "^5.1.1",
+    "sass": "^1.57.1",
+    "swiper": "^8.4.6",
+    "typewriter-effect": "^2.19.0",
+    "wowjs": "^1.1.3",
+    "yet-another-react-lightbox": "^2.3.1"
+  }
+}
